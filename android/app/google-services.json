@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "160380696673",
+    "firebase_url": "https://faces-detection-app.firebaseio.com",
+    "project_id": "faces-detection-app",
+    "storage_bucket": "faces-detection-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160380696673:android:e8989eb7a4bed6f4019220",
+        "android_client_info": {
+          "package_name": "dev.enzoconty.fmood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160380696673-vevntu2hh9qvfvpfnvubaqgs1c4iruu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzUo2G215A3J_9sHTg0i2hg5tPzMmjmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160380696673-vevntu2hh9qvfvpfnvubaqgs1c4iruu2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160380696673-nr9i4prgv6ulu4mnq1ddquu78gv4u64r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.enzoconty.fmood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
